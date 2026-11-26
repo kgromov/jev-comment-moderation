@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: jev-comment-moderation
-  ai:
-    systemone:
-      api-key: ${TYPESAFE_API_KEY}
